@@ -3,6 +3,8 @@ const STORAGE_KEYS = {
   session: "sofrenor_session",
   entries: "sofrenor_entries",
   config: "sofrenor_config"
+  settings: "sofrenor_trs_settings",
+  adjustments: "sofrenor_trs_adjustments"
 };
 
 const defaultConfig = {
